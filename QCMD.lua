@@ -1,13 +1,15 @@
 --[[
-This is my own fork of QuirkyCMD 
-because the 'original' has an ip logger and the new owner (not Eli) displays your ip if he throws a tantrm like a big baby
-here is proof: https://ibb.co/Q74tcXGJ (thanks to @Mp3Alt for this image).
+This is my own fork of QuirkyCMD  
+because the 'original' has an IP logger, and the new owner (not Eli) displays your IP if he throws a tantrum like a big baby.  
+Here is proof: https://ibb.co/Q74tcXGJ (thanks to @Mp3Alt for this image).
 
-Eli is the original owner of this and he made the entirety of the thing excluding the Chatgpt commands Cynatica made
-Discord server for working games: https://discord.gg/aG6KdRje3x (loads of weirdos here i don't recommend communicating)
+Eli is the original owner of this and made the entirety of it, excluding the ChatGPT commands that Cynatica made.  
+Discord server for working games: https://discord.gg/aG6KdRje3x (loads of weirdos here — I don't recommend communicating).
+
+Note: Cynatica if you're reading this your ui is absolutely SHIT
 ]]
 
--- Bought by Cynatica (aka the guy that leaks ips)
+-- Bought by Cynatica (aka the guy who leaks IPs)
 
 local cloneref = cloneref or function(a) return a end
 local coreGui = cloneref(game:GetService("CoreGui"))
