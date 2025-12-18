@@ -12,5 +12,5 @@ Even when confronted he doesn't even try to deny it
 ![image](https://github.com/user-attachments/assets/c2c16fb2-692b-4356-8204-ed1b71a72599)
 
 
-I strongly suggest you don't use the 'offical' QuirkyCMD as it ip logs
+I strongly suggest you don't use the 'official' QuirkyCMD as it ip logs
 The one here on this repository is logger free i obviously wont update it though.
